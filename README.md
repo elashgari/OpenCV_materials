@@ -38,7 +38,7 @@ $ pip install caer
 
 
 ## 2. Basic Concepts:
-** Reading Images and Video (read.py)
+* Reading Images and Video (read.py)
 Resizing and Rescaling Images and Video Frames (rescale.py)
 Drawing Shapes and Placing text on images (draw.py)
 5 Essential Methods in OpenCV (basic.py)
