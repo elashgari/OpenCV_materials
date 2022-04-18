@@ -2,19 +2,19 @@
 
 ## 1. Installation
 
-(a) Make a virtual environment in python, the name of my virtual environment is 'cv'
+* (a) Make a virtual environment in python, the name of my virtual environment is 'cv'
 py -m pip install --user virtualenv
 C:\venvs>py -m venv cv
 
-(b) Activate the virtual environment you made in the previous step
+* (b) Activate the virtual environment you made in the previous step
 C:\venvs>.\cv\Scripts\activate
 
-(c) Install the following packages:
+* (c) Install the following packages:
 (cv) C:\venvs>py -m pip install opencv-python
 (cv) C:\venvs>py -m pip install opencv-contrib-python
 
 
-(d) Besides installing OpenCV, we cover the installation of the following package:
+* (d) Besides installing OpenCV, we cover the installation of the following package:
 
 (cv) C:\venvs>pip freeze
 caer==2.0.8
