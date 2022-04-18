@@ -1,5 +1,14 @@
 # OpenCV_materials
 
+The video is here:
+- https://www.youtube.com/watch?v=oXlwWbU8l2o
+
+The extra packages you need is here:
+- https://github.com/opencv/opencv/blob/master/data/haarcascades/
+- https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+
+
+
 ## 1. Installation
 
 * (a) Make a virtual environment in python, the name of my virtual environment is 'cv'
