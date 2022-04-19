@@ -30,19 +30,19 @@ C:\venvs>.\cv\Scripts\activate
 * (d) Besides installing OpenCV, we cover the installation of the following package:
 
 (cv) C:\venvs>pip freeze
-caer==2.0.8
-cycler==0.11.0
-fonttools==4.32.0
-kiwisolver==1.4.2
-matplotlib==3.5.1
-numpy==1.22.3
-opencv-contrib-python==4.5.5.64
-opencv-python==4.5.5.64
-packaging==21.3
-Pillow==9.1.0
-pyparsing==3.0.8
-python-dateutil==2.8.2
-six==1.16.0
+- caer==2.0.8
+- cycler==0.11.0
+- fonttools==4.32.0
+- kiwisolver==1.4.2
+- matplotlib==3.5.1
+- numpy==1.22.3
+- opencv-contrib-python==4.5.5.64
+- opencv-python==4.5.5.64
+- packaging==21.3
+- Pillow==9.1.0
+- pyparsing==3.0.8
+- python-dateutil==2.8.2
+- six==1.16.0
 
 ##Caer is a lightweight, high-performance Vision library for high-performance AI research. It simplifies your approach towards Computer Vision by abstracting away unnecessary boilerplate code giving you the flexibility to quickly prototype deep learning models and research ideas.
 
