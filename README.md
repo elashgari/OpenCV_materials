@@ -1,11 +1,15 @@
 # OpenCV_materials
 
+
 The video is here:
 - https://www.youtube.com/watch?v=oXlwWbU8l2o
 
 The extra packages you need is here:
 - https://github.com/opencv/opencv/blob/master/data/haarcascades/
 - https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+
+Useful links:
+ - https://www.geeksforgeeks.org/
 
 
 
@@ -62,6 +66,9 @@ $ pip install caer
 * Histogram Computation (histogram.py)
 * Thresholding/Binarizing Images (threshold.py)
 * Advanced Edge Detection (gradient.py)
+* Background subtraction (background_subtraction.py)
+* Extract images from video in Python (Extract_images_from_video.py)
+* Create video using multiple images (images2video.py)
 ## 4. Face Detection and Recognition
 * Face Detection using Haar Cascades (face_detect.py)
 * Face Detection using webcam (face_detect_webcam.py)
