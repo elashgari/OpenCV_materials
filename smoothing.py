@@ -1,3 +1,13 @@
+# Image Blurring refers to making the image less clear or distinct. It is done with the help of various low pass filter kernels.
+
+# Advantages of blurring:
+
+##It helps in Noise removal. As noise is considered as high pass signal so by the application of low pass filter kernel we restrict noise.
+## It helps in smoothing the image.
+## Low intensity edges are removed.
+## It helps in hiding the details when necessary. For e.g. in many cases police deliberately want to hide the face of the victim, in such cases blurring is required.
+
+
 import cv2 as cv
 import numpy as np
 import matplotlib.pyplot as plt
